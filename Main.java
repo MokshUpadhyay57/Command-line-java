@@ -6,6 +6,5 @@ class Main {
         System.out.println(args[i]);
     }
     System.out.println("You entered " + i + " arguements");
-    
   }
 }
